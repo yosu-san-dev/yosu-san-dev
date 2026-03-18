@@ -30,7 +30,9 @@ I am a second-year Software Engineering student based in Türkiye, actively look
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=yosu-san-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=yosu-san-dev&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosu-san-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <details><summary><h3>👨‍💻 Yosu's Coding Journey</h3></summary>
