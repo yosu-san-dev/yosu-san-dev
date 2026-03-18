@@ -1,6 +1,16 @@
 # Hello, World! I'm Yosu
 
 <details><summary><h6>Türkçe</h6></summary>
+   `Yazılım Geliştirici ve Tasarımcı`
+
+   Türkiye'de yaşayan 2. sınıf Yazılım Mühendisliği öğrencisiyim ve zorunlu yaz stajı için aktif olarak yer arıyorum. Sağlam arka uç (backend) sistemleri kurmaktan ve veritabanı mantığı ile kullanıcı arayüzleri arasındaki köprüyü inşa etmekten keyif alıyorum.
+   
+   * 🎓 Şu an okuduğu bölüm: Yazılım Mühendisliği
+   * 💻 İlgi ve keşif alanları: Full-stack web geliştirme, mobil uygulama mimarisi, yapay zeka entegrasyonu, Oyun Geliştirme (Seviye Tasarımı).
+   
+   <details><summary><h3>👨‍💻 Yosu'nun Kodlama Serüveni</h3></summary>
+      Serüvenime... 🙂
+   </details>
 </details>
 
 `Software Developer & Designer`
