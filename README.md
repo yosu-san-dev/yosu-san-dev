@@ -1,11 +1,8 @@
 # Hello, World! I'm Yosu
 
 <details><summary><h6>Türkçe</h6></summary>
-   
 </details>
-<details><summary><h6>Another Language</h6></summary>
-   
-</details>
+
 `Software Developer & Designer`
 
 I am a second-year Software Engineering student based in Türkiye, actively looking for a mandatory summer internship. I enjoy building robust backends and bridging the gap between database logic and user interfaces.
@@ -18,7 +15,6 @@ I am a second-year Software Engineering student based in Türkiye, actively look
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JWT|71](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB|111](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma|87](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-**Currently learning:**
 
 ### 📊 GitHub Stats:
 
