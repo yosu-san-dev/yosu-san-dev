@@ -4,10 +4,8 @@
    
    `Yazılım Geliştirici ve Tasarımcı`
 
-   Türkiye'de yaşayan 2. sınıf Yazılım Mühendisliği öğrencisiyim ve zorunlu yaz stajı için aktif olarak yer arıyorum. Sağlam arka uç (backend) sistemleri kurmaktan ve veritabanı mantığı ile kullanıcı arayüzleri arasındaki köprüyü inşa etmekten keyif alıyorum.
-   
-   * 🎓 Şu an okuduğu bölüm: Yazılım Mühendisliği
-   * 💻 İlgi ve keşif alanları: Full-stack web geliştirme, mobil uygulama mimarisi, yapay zeka entegrasyonu, Oyun Geliştirme (Seviye Tasarımı).
+   Türkiye'de yaşayan 2. sınıf Yazılım Mühendisliği öğrencisiyim. Sağlam arka uç (backend) sistemleri kurmaktan ve veritabanı mantığı ile kullanıcı arayüzleri arasındaki köprüyü inşa etmekten keyif alıyorum.
+   💻 İlgi ve keşif alanları: Full-stack web geliştirme, mobil uygulama mimarisi, yapay zeka entegrasyonu, Oyun Geliştirme (Seviye Tasarımı).
    
    <details><summary><h3>👨‍💻 Yosu'nun Kodlama Serüveni</h3></summary>
       Serüvenime... 🙂
@@ -16,9 +14,8 @@
 
 `Software Developer & Designer`
 
-I am a second-year Software Engineering student based in Türkiye, actively looking for a mandatory summer internship. I enjoy building robust backends and bridging the gap between database logic and user interfaces.
-* 🎓 Currently studying: Software Engineering
-* 💻 Exploring: Full-stack web development, mobile app architecture, and AI integration, Game Development(Level Designer).
+I am a second-year Software Engineering student based in Türkiye. I enjoy building robust backends and bridging the gap between database logic and user interfaces.
+💻 Exploring: Full-stack web development, mobile app architecture, and AI integration, Game Development(Level Designer).
 
 ### 🌐 Socials:
 [![LinkedIn|57](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-fatthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusuffatthi@gmail.com) 
