@@ -33,5 +33,5 @@ I am a second-year Software Engineering student based in Türkiye. I enjoy build
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yosu-san-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <details><summary><h3>👨‍💻 Yosu's Coding Journey</h3></summary>
-   I started... 🙂
+   I started... :)
 </details>
