@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Yosu;Software+Developer+%26+Designer;Adventuring+deep+within+the+system's+explicit+architecture;to+build+master+pieces+of+this+delightful+craft." alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Yosu;Software+Developer+%26+Designer;Adventuring+deep+within+the+system's+explicit+architecture;to+build+masterpieces+of+this+delightful+craft." alt="typing header" />
 
 </div>
 
