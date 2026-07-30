@@ -39,6 +39,10 @@
                                              
 ```
 
+<img width="1472" height="516" alt="image" src="https://github.com/user-attachments/assets/a8a28ed2-0890-460d-bebf-a2f3cafb6ce8" />
+
+
+
 ### Contribution snake
 
 ![snake](https://raw.githubusercontent.com/yosu-san-dev/yosu-san-dev/output/github-contribution-grid-snake-dark.svg)
