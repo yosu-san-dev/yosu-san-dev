@@ -12,13 +12,6 @@
 </div>
 
 ```text
-
-
-
-
-
-
-
                                               
                      ..                       ~/yosu-san-dev
                     -++=.                     ────────────────────────────
@@ -35,17 +28,15 @@
       :+=+***************+++++++++++++=       
       .+*****************++++++++++++++:        ~/projects
        +***#########**##****######*****-        ──────────────────────────
-        =###########################*=:.....      ~/
-          =#######################*=-:::::....    ~/
-            =###################*=----:::::...    ~/
+        =###########################*=:.....      ~/HospitalBackend   Full-stack hospital appointment reservation system (uni project)
+          =#######################*=-:::::....    ~/ManaMarkup        Calculates the engagement rate of any public Instagram account
+            =###################*=----:::::...    ~/Penelope          Code-based temporary drop bag — save notes/files to a room, open anywhere
               *###############*=----::::.....   
                .+#########***=---:::.....       ~/reach
                   ***#*****=---::...            ──────────────────────────
                    :*****=---::..                 ~/In          https://www.linkedin.com/in/yusuf-fatthi
                      .::..                        ~/Mail        yusuffatthi@gmail.com
                                              
-
-
 ```
 
 ### Contribution snake
