@@ -34,5 +34,3 @@
                     In       linkedin.com/in/[your-handle]
                     Mail     [your-email]
 ```
-
-<sub>last updated manually · edit README.md to refresh</sub>
