@@ -12,27 +12,40 @@
 </div>
 
 ```text
-              :::@@@@@=====        yosu@dev
-            :::@@@@@@@=====-        ────────────────────────────
-          ::::@@@@@@@@=======       Role     [Your role]
-         :::@@@@@@@@@@@=========     Edu      [Degree · School · 20XX]
-        :::@@@@@@@@@@@@@=========    Focus    Backend Eng · AI/LLMs
-       ::@@@@@@@@@@@@@@@========-
-      ::@@@@@@@@@@@@@@@@@=======     ~/stack
-      :@@@@@@@@@@@@@@@@@@@======     Lang     Python · JavaScript · SQL
-     :@@@@@@@@@@@@@@@@@@@@@====-     Backend  FastAPI · Node.js · REST
-     @@@@@@@@@@@@@@@@@@@@@@@====     AI       LLMs · RAG · LangChain
-      -::::::::::@@@@@@@@@@@==       Data     PostgreSQL · MongoDB · Redis
-        ::::::::::::::::::::-
-         ::::::::::::::::::         ~/projects
-          ::::::::::::::::          [Project 1]  [one-liner]
-            :::::::::::::           [Project 2]  [one-liner]
-              :::::::::             [Project 3]  [one-liner]
-                :::::
-                                    ~/reach
-                                    Web   [your-portfolio-url]
-                                    In    linkedin.com/in/[handle]
-                                    Mail  [your-email]
+
+
+
+
+
+
+
+                                              
+                     ..                       ~/yosu-san-dev
+                    -++=.                     ────────────────────────────
+                  :-+++++=                        ~/Role        Software Developer & Designer
+                :-=+++++++*:                      ~/Edu         Software Eng. Student
+              .--=++++++++++*.                    ~/Focus       Backend Eng. | Ai
+            .---=++++++++++++*=               
+           -=--=++++++++++++++**:               ~/stack
+         -===-=****+++++++++++++*+              ──────────────────────────
+       :=====+*****++++++++++++++**-              ~/Lang        js · java · html · css · c · git
+     .======+*******++++++++++++++**=             ~/Backend     REST · spring-boot · node.js 
+      ++===+*********+++++++++++++++*:            ~/Ai          LLM's · Prompt Eng. · Claude Code
+      =+==+***********+++++++++++++++*.           ~/Data        MongoDB · NoSQL
+      :+=+***************+++++++++++++=       
+      .+*****************++++++++++++++:        ~/projects
+       +***#########**##****######*****-        ──────────────────────────
+        =###########################*=:.....      ~/
+          =#######################*=-:::::....    ~/
+            =###################*=----:::::...    ~/
+              *###############*=----::::.....   
+               .+#########***=---:::.....       ~/reach
+                  ***#*****=---::...            ──────────────────────────
+                   :*****=---::..                 ~/In          https://www.linkedin.com/in/yusuf-fatthi
+                     .::..                        ~/Mail        yusuffatthi@gmail.com
+                                             
+
+
 ```
 
 ### Contribution snake
