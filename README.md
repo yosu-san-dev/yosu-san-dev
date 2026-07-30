@@ -28,9 +28,9 @@
       :+=+***************+++++++++++++=       
       .+*****************++++++++++++++:        ~/projects
        +***#########**##****######*****-        ──────────────────────────
-        =###########################*=:.....      ~/HospitalBackend   Full-stack hospital appointment reservation system (uni project)
-          =#######################*=-:::::....    ~/ManaMarkup        Calculates the engagement rate of any public Instagram account
-            =###################*=----:::::...    ~/Penelope          Code-based temporary drop bag — save notes/files to a room, open anywhere
+        =###########################*=:.....      ~/HospitalBackend   hospital appointment reservation system
+          =#######################*=-:::::....    ~/ManaMarkup        engagement rate calculator
+            =###################*=----:::::...    ~/Penelope          Code-based temporary drop bag
               *###############*=----::::.....   
                .+#########***=---:::.....       ~/reach
                   ***#*****=---::...            ──────────────────────────
