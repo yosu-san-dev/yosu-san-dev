@@ -39,9 +39,20 @@
                                              
 ```
 
-<img width="1472" height="516" alt="image" src="https://github.com/user-attachments/assets/a8a28ed2-0890-460d-bebf-a2f3cafb6ce8" />
+### Tech stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Featured projects
+
+- **[HospitalBackend](https://github.com/yosu-san-dev/HospitalBackend)** — full-stack hospital appointment reservation system
+- **[ManaMarkup](https://github.com/yosu-san-dev/manamarkup-back)** — engagement-rate checker for any public Instagram account
+- **[Penelope](https://github.com/yosu-san-dev/penelope-the-fileer)** — code-based temporary drop bag for notes and files, cross-platform
 
 ### Contribution snake
 
