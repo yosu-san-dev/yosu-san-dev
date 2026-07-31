@@ -43,7 +43,7 @@
 
 ### About me
 
-I'm a Software Engineering student based. I enjoy building robust backends and bridging the gap between database logic and user interfaces. Exploring full-stack web development and AI orchestration.
+I'm a Software Engineering student. I enjoy building robust backends and bridging the gap between database logic and user interfaces. Exploring full-stack web development and AI orchestration.
 
 ### Languages and tools
 
